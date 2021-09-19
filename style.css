@@ -1,0 +1,16 @@
+.header-menu li.nav-item {
+    margin-right: 10px;
+}
+
+/* banner section */
+
+.banner-text{
+    margin-top: 30% !important;
+}
+
+/* contact-number */
+
+.contact-number .card{
+    margin-top: 110px !important;
+    margin-left: 20px !important;
+}
